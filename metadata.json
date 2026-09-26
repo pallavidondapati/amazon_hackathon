@@ -1,0 +1,6 @@
+{
+  "name": "Amazon ML Challenge - Business Entity Resolution",
+  "description": "High-precision multi-stage entity resolution pipeline, blocking, classifier, validation, and submission generator for Amazon ML Challenge 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
